@@ -159,10 +159,10 @@ TextureImporter:
         serializedVersion: 2
         x: 23
         y: 279
-        width: 35
+        width: 82
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,36 +175,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HD (Scared NA) (1)_1
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 279
-        width: 35
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 772255f2a54153e43b94c883dc1efcc2
-      internalID: -1434358501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: HD (Scared NA) (1)_2
       rect:
         serializedVersion: 2
         x: 151
         y: 281
-        width: 35
+        width: 82
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,36 +196,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HD (Scared NA) (1)_3
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 281
-        width: 35
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79d221d223dc1e740966bde56f70f234
-      internalID: -1077583321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: HD (Scared NA) (1)_4
       rect:
         serializedVersion: 2
         x: 23
         y: 155
-        width: 35
+        width: 82
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -259,36 +217,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HD (Scared NA) (1)_5
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 155
-        width: 35
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c1fb241a48913d408574f2a5a408263
-      internalID: -619212649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: HD (Scared NA) (1)_6
       rect:
         serializedVersion: 2
         x: 151
         y: 153
-        width: 35
+        width: 82
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -301,36 +238,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HD (Scared NA) (1)_7
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 153
-        width: 35
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58c06136821e1ef4cb19ae68621b0a25
-      internalID: 120746995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: HD (Scared NA) (1)_8
       rect:
         serializedVersion: 2
         x: 23
         y: 23
-        width: 35
+        width: 82
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,27 +254,6 @@ TextureImporter:
       bones: []
       spriteID: 23602eb558f291446bd8ed1d6190a16e
       internalID: 1903997159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HD (Scared NA) (1)_9
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 23
-        width: 35
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db4e4bff4a030b341a64402806345673
-      internalID: -421262792
       vertices: []
       indices: 
       edges: []

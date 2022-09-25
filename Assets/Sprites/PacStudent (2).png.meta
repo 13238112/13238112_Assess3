@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b262ef4c4d843774ba0aa7aeeb49b331
+guid: 07bdf625914ed024aad09c5f70164fb4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -154,7 +154,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PacStudent (1)_0
+      name: PacStudent (2)_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa2973c17b0a5418f048ac8990de9e
+      internalID: -712191526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudent (2)_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4311c2e2562cb4448a88c7d5be4fa562
+      internalID: -1893956150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudent (2)_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ce358a10c3f645b34bc386bcc0456
+      internalID: -1132298358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudent (2)_3
       rect:
         serializedVersion: 2
         x: 35
@@ -168,8 +231,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4df7dd98da76c5a438d168618b929939
-      internalID: -184019482
+      spriteID: 5357e7804225a7741b4d061d4589ca13
+      internalID: 10772212
       vertices: []
       indices: 
       edges: []
@@ -177,7 +240,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: e361cd4734781fc46a344881b0ff9a8f
     internalID: 0
     vertices: []
     indices: 
@@ -185,7 +248,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacStudent (1)_0: -184019482
+      PacStudent (2)_3: 10772212
+      PacStudent (2)_2: -1132298358
+      PacStudent (2)_1: -1893956150
+      PacStudent (2)_0: -712191526
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
