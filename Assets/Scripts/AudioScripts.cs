@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using UnityEngine.Audio;
-
+using UnityEngine.SceneManagement;
 public class AudioScripts : MonoBehaviour
 {
     public Sounds[] sounds;
@@ -46,6 +46,25 @@ public class AudioScripts : MonoBehaviour
     }
 
     void Start()
+    {
+        if (SceneManager.GetActiveScene().name == "StartScene")
+        {
+            PlayIntro();
+        }
+        if(SceneManager.GetActiveScene().name == "SampleScene")
+        {
+            PlayIntroWithoutInvoke();
+        }
+    }
+
+
+    void PlayIntroWithoutInvoke()
+    {
+        //This is for the start screen
+        Play("Intro");
+    }
+
+    void PlayIntro()
     {
         //I'll play the intro at the start of the game
         Play("Intro");
