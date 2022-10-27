@@ -49,11 +49,11 @@ public class AudioScripts : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name == "StartScene")
         {
-            PlayIntro();
+            PlayIntroWithoutInvoke();
         }
         if(SceneManager.GetActiveScene().name == "SampleScene")
         {
-            PlayIntroWithoutInvoke();
+            Invoke("PlayNormalState", 0.0f);
         }
     }
 
